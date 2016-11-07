@@ -10,3 +10,16 @@ body {
     padding: 0;
     background-color: black;
 }
+
+#heading{
+  font-family: 'Kreon', serif;
+  font-size: 35px;
+  color: #d9edf7;
+  margin: 0 auto;
+  align-items: center;
+  border-bottom: 1px solid #d9edf7;
+  width: 65%;
+  text-align: center;
+  margin-bottom: 17px;
+  margin-top: 25px;
+}
